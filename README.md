@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowsiraj
 - 👀 I’m interested in HTML,CSS,JS,Python and etc...
-- 🌱 I’m currently learning FSD( Full Stack Development)
+- 🌱 I’m currently learning FSD-MERN( Full Stack Development)
 - 📫 How to reach me ...
 
 <!---
